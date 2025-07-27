@@ -1,3 +1,5 @@
+<img src="demo.gif" alt="Demo del sitio" width="1000"/>
+
 # 🌐 Josfull — Blog & Docs
 
 [![Ir al sitio](https://img.shields.io/badge/Visitar%20sitio-josfull.github.io-2ea44f?style=for-the-badge&logo=githubpages)](https://josfull.github.io)
